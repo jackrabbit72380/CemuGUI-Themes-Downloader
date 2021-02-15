@@ -2,11 +2,11 @@
 
 ## Icon
 
-![Screenshot](https://github.com/jackrabbit72380/XeniaFlow/blob/main/Xeniaflowiconb.png)
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI-Themes-Downloader/blob/main/theme.png)
 
 ## Screenshot
 
-![Screenshot](https://github.com/jackrabbit72380/XeniaFlow/blob/main/Screenshot2.jpg)
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI-Themes-Downloader/blob/main/Screenshot.jpg)
 
 
 
