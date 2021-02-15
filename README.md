@@ -6,7 +6,7 @@
 
 ## Screenshot
 
-![Screenshot](https://github.com/jackrabbit72380/CemuGUI-Themes-Downloader/blob/main/Screenshot.jpg)
+![Screenshot](https://github.com/jackrabbit72380/CemuGUI-Themes-Downloader/blob/main/Screenshot.png)
 
 
 
