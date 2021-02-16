@@ -18,5 +18,5 @@ the app is also made to be a minamal link testing version of the larger themes c
 
 You may use it how ever you like just to have some fun! show your friends or maybe you just want to browse the themes with out launching the larger app.
 
-what ever the case is we say go for it! Dont forget to create your owen high quality custom theme and upload it to us we love new content!
+what ever the case is we say go for it! Dont forget to create & share your own custom theme! We love new content!
 
